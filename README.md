@@ -1,1 +1,1 @@
-# godot-3-basic-platformer
+# Pollie - Open Source Game
